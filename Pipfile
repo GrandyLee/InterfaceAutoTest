@@ -1,0 +1,18 @@
+[[source]]
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+name = "aliyun"
+
+[packages]
+requests = "==2.22.0"
+pytest = "==6.0.1"
+allure-pytest = "==2.8.18"
+redis = "==3.5.3"
+pymysql = "==0.9.3"
+pycryptodome = "*"
+xlrd = "==1.2.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

@@ -1,0 +1,23 @@
+#windosw
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#python
+*.py[cod]
+*.so
+*.egg
+#.egg-info
+#dist
+build
+*.pid
+*.db
+#myignore
+log
+test.py
+debug.py
+.idea
+report/tmp/*.*
+# Environments
+.env
+.venv
